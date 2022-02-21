@@ -1,0 +1,22 @@
+.image-style img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+.image-style button {
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+}
+
+.image-style {
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  box-shadow: 10px 10px 8px paleturquoise;
+  background-color: black;
+  color: white;
+  margin: 5px;
+  text-align: center;
+}
